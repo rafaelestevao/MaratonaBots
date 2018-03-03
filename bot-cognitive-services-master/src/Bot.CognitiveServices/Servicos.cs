@@ -298,7 +298,7 @@ namespace Bot.CognitiveServices
             var result = await response.Content.ReadAsStringAsync();
             var content = XElement.Parse(result).Value;
 
-            return $"Texto original: **{ texto }**\nTradução: **{ content }**";
+            return $"Texto original: **{ texto }**\n {Environment.NewLine} Tradução: **{ content }**";
         }
     }
 }
