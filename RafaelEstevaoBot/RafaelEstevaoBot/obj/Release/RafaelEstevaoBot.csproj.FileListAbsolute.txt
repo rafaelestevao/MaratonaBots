@@ -1,0 +1,41 @@
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Bot Application.dll.config
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Bot Application.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Bot Application.pdb
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Autofac.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Chronic.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Newtonsoft.Json.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Net.Http.Formatting.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Web.Http.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Web.Http.WebHost.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Autofac.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\Newtonsoft.Json.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Net.Http.Formatting.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Web.Http.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\System.Web.Http.WebHost.xml
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\obj\Release\RafaelEstevaoBot.csprojResolveAssemblyReference.cache
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\obj\Release\RafaelEstevaoBot.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\obj\Release\Bot Application.dll
+C:\Users\rafae\Documents\github-pessoal\MaratonaBots\RafaelEstevaoBot\RafaelEstevaoBot\obj\Release\Bot Application.pdb

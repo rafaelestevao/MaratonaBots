@@ -31,7 +31,7 @@ namespace Bot.CognitiveServices.Controllers
             switch (activity.Type)
             {
                 case ActivityTypes.Message:
-                    await Conversation.SendAsync(activity, () => new Licao2Dialog(service));
+                    await Conversation.SendAsync(activity, () => new Licao5Dialog(service));
                     break;
                 case ActivityTypes.ConversationUpdate:
                     if (activity.MembersAdded.Any(o => o.Id == activity.Recipient.Id))
